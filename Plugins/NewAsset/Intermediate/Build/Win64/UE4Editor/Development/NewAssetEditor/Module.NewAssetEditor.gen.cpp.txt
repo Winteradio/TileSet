@@ -1,0 +1,7 @@
+C:\PUBG\UE4\TTEST\Plugins\NewAsset\Intermediate\Build\Win64\UE4Editor\Development\NewAssetEditor\Definitions.NewAssetEditor.h
+C:/PUBG/UE4/TTEST/Plugins/NewAsset/Intermediate/Build/Win64/UE4Editor/Inc/NewAssetEditor/IndirectionTextureFactory.gen.cpp
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\PUBG\UE4\TTEST\Plugins\NewAsset\Source\NewAssetEditor/Public/IndirectionTextureFactory.h
+C:\PUBG\UE4\TTEST\Plugins\NewAsset\Intermediate\Build\Win64\UE4Editor\Inc\NewAssetEditor\IndirectionTextureFactory.generated.h
+C:/PUBG/UE4/TTEST/Plugins/NewAsset/Intermediate/Build/Win64/UE4Editor/Inc/NewAssetEditor/NewAssetEditor.init.gen.cpp

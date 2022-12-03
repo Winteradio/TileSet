@@ -1,0 +1,31 @@
+C:\PUBG\UE4\TTEST\Plugins\NewAsset\Intermediate\Build\Win64\UE4Editor\Development\NewAssetEditor\Definitions.NewAssetEditor.h
+C:/PUBG/UE4/TTEST/Plugins/NewAsset/Source/NewAssetEditor/Private/IndirectionTextureAssetActions.cpp
+C:\PUBG\UE4\TTEST\Plugins\NewAsset\Source\NewAssetEditor\Public\IndirectionTextureAssetActions.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer\AssetTools\Public\AssetTypeActions_Base.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer\AssetTools\Public\IAssetTools.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer\AssetTools\Public\AssetTypeCategories.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer\AssetTools\Public\IAssetTypeActions.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer/Merge/Public/Merge.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\AutomatedAssetImportData.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\AutomatedAssetImportData.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetTools\IAssetTools.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Developer\AssetTools\Public\AssetToolsModule.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\Toolkits/AssetEditorManager.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\UnrealEd\Public\Toolkits/SimpleAssetEditor.h
+C:\PUBG\UE4\TTEST\Plugins\NewAsset\Source\NewAsset\Public\IndirectionTexture.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE\random
+C:\PUBG\UE4\TTEST\Plugins\NewAsset\Intermediate\Build\Win64\UE4Editor\Inc\NewAsset\IndirectionTexture.generated.h
+C:/PUBG/UE4/TTEST/Plugins/NewAsset/Source/NewAssetEditor/Private/IndirectionTextureFactory.cpp
+C:\PUBG\UE4\TTEST\Plugins\NewAsset\Source\NewAssetEditor\Public\IndirectionTextureFactory.h
+C:\PUBG\UE4\TTEST\Plugins\NewAsset\Intermediate\Build\Win64\UE4Editor\Inc\NewAssetEditor\IndirectionTextureFactory.generated.h
+C:/PUBG/UE4/TTEST/Plugins/NewAsset/Source/NewAssetEditor/Private/NewAssetEditor.cpp
+C:\PUBG\UE4\TTEST\Plugins\NewAsset\Source\NewAssetEditor\Public\NewAssetEditor.h

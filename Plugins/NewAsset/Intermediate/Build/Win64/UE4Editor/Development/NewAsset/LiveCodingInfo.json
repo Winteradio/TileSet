@@ -1,0 +1,15 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NewAsset.cpp.obj": [
+			"IndirectionTexture.cpp.obj",
+			"LoadTexture.cpp.obj",
+			"MyTexture2D.cpp.obj",
+			"NewAsset.cpp.obj"
+		],
+		"Module.NewAsset.gen.cpp.obj": [
+			"IndirectionTexture.gen.cpp.obj",
+			"NewAsset.init.gen.cpp.obj"
+		]
+	}
+}

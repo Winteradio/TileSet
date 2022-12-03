@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NewAsset.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\PUBG\UE4\TTEST\Intermediate\Build\Win64\TTESTEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\PUBG\UE4\TTEST\Plugins\NewAsset\Intermediate\Build\Win64\UE4Editor\Development\NewAsset\Module.NewAsset.cpp.obj"
+"C:\PUBG\UE4\TTEST\Plugins\NewAsset\Intermediate\Build\Win64\UE4Editor\Development\NewAsset\Module.NewAsset.gen.cpp.obj"
+"C:\PUBG\UE4\TTEST\Plugins\NewAsset\Intermediate\Build\Win64\UE4Editor\Development\NewAsset\Default.rc2.res"
+/OUT:"C:\PUBG\UE4\TTEST\Plugins\NewAsset\Intermediate\Build\Win64\UE4Editor\Development\NewAsset\UE4Editor-NewAsset.lib"
+/INCLUDE:IMPLEMENT_MODULE_NewAsset

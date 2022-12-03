@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.NewAssetEditor.cpp.obj": [
+			"IndirectionTextureAssetActions.cpp.obj",
+			"IndirectionTextureFactory.cpp.obj",
+			"NewAssetEditor.cpp.obj"
+		],
+		"Module.NewAssetEditor.gen.cpp.obj": [
+			"IndirectionTextureFactory.gen.cpp.obj",
+			"NewAssetEditor.init.gen.cpp.obj"
+		]
+	}
+}
